@@ -1,0 +1,283 @@
+﻿++Solution 'GenericRepositoy' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:GenericRepositoy.sln
+++Repositoy
+i:{00000000-0000-0000-0000-000000000000}:Repositoy
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\repositoy\repositoy.csproj
+++Dependencies
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:>283
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>198
+++Analyzers
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:analyzers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:analyzers
+++Frameworks
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:frameworks
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:frameworks
+++Packages
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:packages
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:packages
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>737
+++EF
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\ef\
+++DbContextProject.cs
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\ef\dbcontextproject.cs
+++Entities
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\entities\
+++People.cs
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\entities\people.cs
+++Interfaces
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\interfaces\
+++IGenericRepositoy.cs
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\interfaces\igenericrepositoy.cs
+++GenericRepository.cs
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\genericrepository.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\users\indra\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\users\indra\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\users\indra\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\microsoft.netcore.app
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\microsoft.netcore.app
+++GenericRepositoy
+i:{00000000-0000-0000-0000-000000000000}:GenericRepositoy
+++Connected Services 
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>199
+++Properties
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\properties\
+++launchSettings.json
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\properties\launchsettings.json
+++wwwroot
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\
+++css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\css\
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\js\
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\
+++favicon.ico
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\favicon.ico
+++Controllers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\controllers\
+++HomeController.cs
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\controllers\homecontroller.cs
+++Models
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\models\
+++Views
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\
+++Home
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\home\
+++Shared
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\shared\
+++_ViewImports.cshtml
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\_viewstart.cshtml
+++appsettings.json
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\appsettings.json
+++appsettings.Development.json
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\appsettings.development.json
+++Program.cs
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\program.cs
+++No service dependencies discovered
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>200
+++Projects
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:projects
+++site.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\css\site.css
+++site.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\js\site.js
+++bootstrap
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\
+++jquery
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery\
+++jquery-validation
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation-unobtrusive\
+++ErrorViewModel.cs
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\models\errorviewmodel.cs
+++Index.cshtml
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\home\index.cshtml
+++Privacy.cshtml
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\shared\error.cshtml
+++Microsoft.AspNetCore.Analyzers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\microsoft.aspnetcore.app
+++dist
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery\dist\
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery\license.txt
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\views\shared\_layout.cshtml.css
+++jquery.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\repositorio\genericrepositoy\genericrepositoy\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++appsettings1.json
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:>578
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>1209
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:>567
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>1210
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>573
+++Migrations
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\migrations\
+++20220426025528_first migration.cs
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\migrations\20220426025528_first migration.cs
+++DbContextProjectModelSnapshot.cs
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\migrations\dbcontextprojectmodelsnapshot.cs
+++20220426025528_first migration.Designer.cs
+i:{09dcfd6e-b8d1-41f4-8be7-2b6a849035a8}:c:\repositorio\genericrepositoy\repositoy\migrations\20220426025528_first migration.designer.cs
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.3)
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>1204
+++Swashbuckle.AspNetCore (6.3.0)
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:>752
+++Microsoft.CodeAnalysis.Analyzers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\users\indra\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\users\indra\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++MessagePackAnalyzer
+i:{7926737c-bb10-4f06-ace6-0efb942240f9}:c:\users\indra\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
